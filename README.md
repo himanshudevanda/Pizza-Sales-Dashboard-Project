@@ -61,7 +61,9 @@ Run SQL queries (provided in Word file) on SQL Server to prepare the dataset.
 Import the cleaned dataset into Excel.
 
 Open the Excel Dashboard file to explore interactive visualizations.
-Queries used in sql Server:-
+
+##Queries used in sql Server:-
+
 A. KPI’s
 1. Total Revenue:
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
