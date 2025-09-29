@@ -62,7 +62,7 @@ Import the cleaned dataset into Excel.
 
 Open the Excel Dashboard file to explore interactive visualizations.
 
-##Queries used in sql Server:-
+## Queries used in sql Server:-
 
 A. KPI’s
 1. Total Revenue:
